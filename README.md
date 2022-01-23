@@ -1,4 +1,2 @@
 # First-Contribution
-Hi this is Aryan and this is my contribution.
-This is my first contribution
-hello anuj thanks for this video. Very Helpful
+Hey, how is everyone doing? This is a great Git tutorial, thanks a bunch Anuj for providing us with such amazing content! Keep rocking brother!
